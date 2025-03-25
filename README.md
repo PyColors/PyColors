@@ -1,10 +1,9 @@
-![Header-PyColors](https://www.pycolors.com/assets/header-pycolors.png)
-
 ## Hi! 
-I'm Patrice a Creative Front End Developer from Paris 🇫🇷 
-I have had the privilege of working with French and UK companies such as _EuroSport, TF1, Vodafone, BNP Paribas, The ING Group_, and many more.
+I'm a Creative Full-Stack JavaScript Engineer based in Paris 🇫🇷, passionate about building elegant and scalable user experiences with modern web technologies.
 
-I enjoy having lots of responsibilities to increase the quality of the customer journey and have interactions with cross-functional teams of UX Designers, Program Managers, etc. Mainly within an incredible international 🌎 environment.
+With many years of experience, I've collaborated with major companies in France and the UK, including EuroSport, TF1, Vodafone UK, BNP Paribas, the ING Group, and Sanofi. My journey spans high-impact projects in dynamic, international environments 🌍, often at the crossroads of engineering, design, and product strategy.
+
+I thrive in roles where I can take ownership, collaborate across cross-functional teams, and drive innovation to enhance the end-user experience.
 
 
 ## 🤹 Skills
